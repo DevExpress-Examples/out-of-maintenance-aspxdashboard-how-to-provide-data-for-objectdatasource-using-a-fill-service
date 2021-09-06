@@ -24,7 +24,7 @@ This example shows how to bind the [ASP.NET Web Forms Dashboard Control](https:
 - [Object Data Source](https://docs.devexpress.com/Dashboard/401410/)
 - [IObjectDataSourceCustomFillService](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.IObjectDataSourceCustomFillService)
 
-## Examples
+## More Examples
 
 - [Dashboard for Web Forms - How to provide data for ObjectDataSource using the DataLoading event](https://github.com/DevExpress-Examples/aspxdashboard-how-to-provide-data-for-objectdatasource-using-the-dataloading-event-t428195)
 - [Dashboard for Web Forms - How to replace DashboardSqlDataSource with DashboardObjectDataSource with filtered data](https://github.com/DevExpress-Examples/how-to-replace-dashboardsqldatasource-with-dashboardobjectdatasource-with-filtered-data-t556759)
